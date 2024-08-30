@@ -1,5 +1,5 @@
-import _ from 'lodash';
-import React from "react";
+// index.js
 
-console.log("Hello, Hexlet!");
-console.log(_.last(['one', 'two']));
+import lastElement from './src/index.js';
+
+lastElement();
